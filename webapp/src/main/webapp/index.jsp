@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Learning for Devops student</h1>
+    <h1>This is jayrajsinh devops project</h1>
     <p>Please fill in this form to attend next class.</p>
     <hr>
      

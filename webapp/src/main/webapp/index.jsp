@@ -30,7 +30,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1>  Happy Learning </h1>
+   <h1>  Happy Learning every one see in next project</h1>
 
   
 </form>

@@ -1,13 +1,13 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>This is jayrajsinh devops project</h1>
-    <p>Please fill in this form to attend next class.</p>
+    <h1>New user Register</h1>
+    <p>Please fill in this form create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter username</b></label>
+    <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
     <br>
-    <label for="mobile"><b>Enter TELEPHONE</b></label>
+    <label for="mobile"><b>Enter Mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
@@ -30,7 +30,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Hello Thankyou, Happy Learning THis is jayrajsinh CI/CD pipeline project </h1>
+   <h1>  Happy Learning  </h1>
 
   
 </form>

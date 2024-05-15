@@ -30,7 +30,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1>  Happy Learning student </h1>
+   <h1>  Hii This is Harshil </h1>
 
   
 </form>
